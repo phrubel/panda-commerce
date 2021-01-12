@@ -9,3 +9,7 @@ footer{
     height: 350px;
     border-radius: 10px;
 }
+footer a{
+    text-decoration: none;
+
+}
